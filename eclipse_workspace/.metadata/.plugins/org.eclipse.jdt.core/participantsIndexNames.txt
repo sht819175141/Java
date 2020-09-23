@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+D:\OneDrive\Java\eclipse_workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\331298071.index
+\my_java_peoject_example\src\main\java

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="D:\OneDrive\Java\my_java_peoject_example"/>
+			<item value="E:\Company\HZ_Dayou\20180728_v1.0.1"/>
+			<item value="D:\OneDrive\Java\my_first_project_java"/>
+			<item value="D:\OneDrive\Java\MyFirstJavaProgram"/>
+			<item value="E:\Company\Lenovo\Project\MBG-App\mbg-app-dev"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>
